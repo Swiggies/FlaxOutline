@@ -3,9 +3,9 @@ Basic outline post-process shader for the Flax Engine
 
 ## Installation
 
-1. Clone this repo into `<game-project>\Plugins\FlaxPrototypeTools`
+1. Clone this repo into `<game-project>\Plugins\FlaxOutline`
 
-2. Add reference to the PrototypeTools project in your game by modyfying your games project file (`<game-project>.flaxproj`) as follows:
+2. Add reference to the Outline project in your game by modyfying your games project file (`<game-project>.flaxproj`) as follows:
 
 
 ```
